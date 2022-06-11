@@ -2,18 +2,10 @@ import { QqOutlined } from "@ant-design/icons";
 import { Col, Input, Layout, PageHeader, Row } from "antd";
 import "./App.css";
 import { EditorialCard } from "./components/editorial-card";
-import editoriales from "./editoriales.json";
+import data from "./data/editoriales.json";
+import { IEditorial } from "./types/IEditorial";
 
-interface IEditorial {
-  title: string;
-  editorial: string;
-  tags: string[];
-  date: string;
-  ole_cover: string;
-  show: string;
-}
-
-const _editoriales: IEditorial[] = editoriales;
+const editoriales: IEditorial[] = data;
 const { Search } = Input;
 
 export const App = () => {
@@ -65,7 +57,7 @@ export const App = () => {
               style={{ width: "100%", paddingBottom: "60px" }}
             />
             <>
-              {_editoriales.map((e) => (
+              {editoriales.map((e) => (
                 <EditorialCard />
               ))}
             </>
