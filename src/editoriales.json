@@ -1,0 +1,43 @@
+[
+    {
+        "title": "La final mas importante del mundo",
+        "editorial": "La final mas importante del mundo la gano River Plate en madrid. El equipo de River Plate gano la final del mundo con una victoria de 3-1 contra su maximo rival, el club atletico Boca Juniors",
+        "tags": [ "River Plate", "Boca Juniors", "Final del mundo" ],
+        "date": "2018-09-12",
+        "ole_cover": "https://i.imgur.com/XQQZQ.jpg",
+        "show": "ESPN F90" 
+    },
+    {
+        "title": "La segunda final mas importante del mundo",
+        "editorial": "La segunda final mas importante del mundo la gano River Plate en madrid. El equipo de River Plate gano la final del mundo con una victoria de 3-1 contra su maximo rival, el club atletico Boca Juniors",
+        "tags": [ "River Plate", "Boca Juniors", "Final del mundo" ],
+        "date": "2018-09-12",
+        "ole_cover": "https://i.imgur.com/XQQZQ.jpg",
+        "show": "ESPN F90"
+    },
+    {
+        "title": "River vuelve a ser River",
+        "editorial": "El muñeco gallardo volvio a eliminar a Boca en copa libertadores",
+        "tags": [ "Boca", "Copa Libertadores" ],
+        "date": "2018-09-12",
+        "ole_cover": "https://i.imgur.com/XQQZQ.jpg",
+        "show": "ESPN F90"
+    },
+    {
+        "title": "La noche de Teo Gutierrez",
+        "editorial": "Teo Gutierrez se fue a la noche de la final de la copa libertadores",
+        "tags": [ "Teo Gutierrez", "Copa Libertadores" ],
+        "date": "2018-09-12",
+        "ole_cover": "https://i.imgur.com/XQQZQ.jpg",
+        "show": "Fox Sport Radio"
+    },
+    {
+        "title": "La noche de Lucas Alario",
+        "editorial": "Lucas Alario se fue a la noche de la final de la copa libertadores",
+        "tags": [ "Lucas Alario", "Copa Libertadores" ],
+        "date": "2018-09-12",
+        "ole_cover": "https://i.imgur.com/XQQZQ.jpg",
+        "show": "90 Minutos de Futbol"
+    }
+]
+
