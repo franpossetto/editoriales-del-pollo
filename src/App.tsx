@@ -23,8 +23,6 @@ export const App = () => {
             letterSpacing: "2px",
           }}
         >
-          {/* <QqOutlined style={{ fontSize: "23px", paddingRight: "10px" }} />
-          LAS EDITORIALES DEL POLLO */}
           <Col span={1} push={12}>
             <QqOutlined style={{ fontSize: "25px" }} />
           </Col>
