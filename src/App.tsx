@@ -9,7 +9,6 @@ const editoriales: IEditorial[] = data;
 const { Search } = Input;
 
 export const App = () => {
-  //
   return (
     <>
       <Layout style={{ backgroundColor: "white" }}>
@@ -41,8 +40,7 @@ export const App = () => {
                   fontWeight: "200",
                 }}
               >
-                {" "}
-                Un rendido homenaje para el Chicken{" "}
+                Un rendido homenaje para el Chicken
               </h1>
             </Col>
           </Col>
@@ -56,7 +54,7 @@ export const App = () => {
             />
             <>
               {editoriales.map((e) => (
-                <EditorialCard />
+                <EditorialCard {...e}  />
               ))}
             </>
           </Col>
